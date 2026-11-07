@@ -258,6 +258,23 @@ The goal of RECALLOPS is to explore how AI agents can learn from previous produc
 
 **Every incident should leave behind knowledge that makes the next investigation easier.**
 
+## 📸 Application Screenshots
+
+### Dashboard
+![RECALLOPS Dashboard](screenshots/01-dashboard.png)
+
+### New Incident
+![New Incident](screenshots/02-new-incident.png)
+
+### AI Incident Analysis
+![AI Analysis](screenshots/03-ai-analysis.png)
+
+### Similar Incident Analysis
+![Similarity Analysis](screenshots/04-similarity-analysis.png)
+
+### AI Memory Intelligence
+![AI Memory](screenshots/05-ai-memory.png)
+
 ## 👨‍💻 Developer
 
 **Lokeshwaran A.**
