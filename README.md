@@ -258,23 +258,34 @@ The goal of RECALLOPS is to explore how AI agents can learn from previous produc
 
 **Every incident should leave behind knowledge that makes the next investigation easier.**
 
-## 📸 Application Screenshots
+## 📸 Project Screenshots
 
-### Dashboard
-![RECALLOPS Dashboard](screenshots/01-dashboard.png)
+### 1. Dashboard
+![Dashboard](screenshots/01-dashboard.png.png)
 
-### New Incident
-![New Incident](screenshots/02-new-incident.png)
+### 2. New Incident
+![New Incident](screenshots/02-new-incident.png.png)
 
-### AI Incident Analysis
-![AI Analysis](screenshots/03-ai-analysis.png)
+### 3. AI Analysis
+![AI Analysis](screenshots/03-ai-analysis.png.png)
 
-### Similar Incident Analysis
-![Similarity Analysis](screenshots/04-similarity-analysis.png)
+### 4. Groq AI
+![Groq AI](screenshots/03-groq-ai.png.png)
 
-### AI Memory Intelligence
-![AI Memory](screenshots/05-ai-memory.png)
+### 5. Historical Evidence
+![Historical Evidence](screenshots/04-historical-evidence.png.png)
 
+### 6. Similarity Analysis
+![Similarity Analysis](screenshots/04-similarity-analysis.png.png)
+
+### 7. AI Memory
+![AI Memory](screenshots/05-ai-memory.png.png)
+
+### 8. Memory Insights
+![Memory Insights](screenshots/05-memory-insights.png.png)
+
+### 9. Analytics
+![Analytics](screenshots/06-analytics.png.png)
 ## 👨‍💻 Developer
 
 **Lokeshwaran A.**
